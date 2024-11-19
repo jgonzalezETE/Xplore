@@ -1,0 +1,41 @@
+{
+    "Character Information": {
+        "Name": "Skellington",
+        "Class": "[Enter Class]",
+        "Background": "[Enter Background]",
+        "Level": "[Enter Level]"
+    },
+    "Stat Scores": {
+        "Health Points": "[Enter HP]",
+        "Mana": "[Enter Mana]",
+        "Experience": "[Enter XP]",
+        "Damage": "[Enter Damage]"
+    },
+    "Ability Scores": {
+        "Strength (STR)": {
+            "Score": "[Enter Score]",
+            "Modifier": "[Enter Modifier]"
+        },
+        "Dexterity (DEX)": {
+            "Score": "[Enter Score]",
+            "Modifier": "[Enter Modifier]"
+        },
+        "Constitution (CON)": {
+            "Score": "[Enter Score]",
+            "Modifier": "[Enter Modifier]"
+        },
+        "Intelligence (INT)": {
+            "Score": "[Enter Score]",
+            "Modifier": "[Enter Modifier]"
+        },
+        "Wisdom (WIS)": {
+            "Score": "[Enter Score]",
+            "Modifier": "[Enter Modifier]"
+        },
+        "Charisma (CHA)": {
+            "Score": "[Enter Score]",
+            "Modifier": "[Enter Modifier]"
+        }
+    },
+    "Spells": []
+}

@@ -1,0 +1,46 @@
+{
+    "Character Information": {
+        "Name": "Gobbo",
+        "Class": "[Enter Class]",
+        "Background": "[Enter Background]",
+        "Level": "[Enter Level]"
+    },
+    "Stat Scores": {
+        "Health Points": 41,
+        "Mana": 22,
+        "Experience": 20,
+        "Damage": 11,
+        "Accuracy": 72,
+        "Defense": 12,
+        "Physical Evasion": 10,
+        "Magical Evasion": 11,
+        "Difficulty": 1
+    },
+    "Ability Scores": {
+        "Strength (STR)": {
+            "Score": 10,
+            "Modifier": 0
+        },
+        "Dexterity (DEX)": {
+            "Score": 14,
+            "Modifier": 0
+        },
+        "Constitution (CON)": {
+            "Score": 6,
+            "Modifier": 0
+        },
+        "Intelligence (INT)": {
+            "Score": 7,
+            "Modifier": 0
+        },
+        "Wisdom (WIS)": {
+            "Score": 6,
+            "Modifier": 0
+        },
+        "Charisma (CHA)": {
+            "Score": 6,
+            "Modifier": 0
+        }
+    },
+    "Spells": []
+}
